@@ -1,0 +1,6 @@
+1|Harry Potter and the Philosopher's Stone|J.K. Rowling|10
+2|Rich Dad Poor Dad|Robert Kiyosaki|8
+3|The Lord of the Rings|J.R.R. Tolkien|7
+4|Arsene Lupin|Maurice Leblanc|9
+5|The Secret Seven|Enid Blyton|8
+6|Sherlock Holmes|Arthur Conan Doyle|7
